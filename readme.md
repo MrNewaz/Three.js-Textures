@@ -1,10 +1,11 @@
-# Three.js Journey
+# Live Preview: [Live Preview](https://newaz-gui.netlify.app/).
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 

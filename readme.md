@@ -1,4 +1,4 @@
-# Live Preview: [Live Preview](https://newaz-gui.netlify.app/).
+# [Live Preview](https://newaz-gui.netlify.app/).
 
 ## Setup
 
